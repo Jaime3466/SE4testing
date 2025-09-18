@@ -4,6 +4,7 @@
     {
         //hello
         //shaw
+        //here I have to add a reference to Genre
         //I have to add a reference to rental
     }
 }
